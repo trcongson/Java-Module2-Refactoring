@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Module2-Refactoring.iml" filepath="$PROJECT_DIR$/.idea/Java-Module2-Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCodeRenaming.iml" filepath="$PROJECT_DIR$/CleanCodeRenaming.iml" />
     </modules>
   </component>
 </project>
